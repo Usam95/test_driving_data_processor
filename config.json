@@ -1,0 +1,10 @@
+{
+  "dataset_path": "./data",
+  "output_data_path": "./results",
+  "clean_data": true,
+  "default_total_driven_km": "0",
+  "default_group_vehicle_number": "UNKNOWN",
+  "default_record_country": "UNKNOWN",
+  "default_record_date": "UNKNOWN",
+  "logging_level": "error"
+}
