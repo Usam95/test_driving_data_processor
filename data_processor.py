@@ -3,12 +3,10 @@ from utils.logger import Logger
 from utils.data_cleaner import DataCleaner
 from utils.pydantic_models import TestDrivingData, Config
 from typing import Optional, List, Dict
-import pydantic
 from pydantic import BaseModel, ValidationError
 import os
 import csv
 import datetime
-import re
 
 
 class TestDrivingDataProcessor:
